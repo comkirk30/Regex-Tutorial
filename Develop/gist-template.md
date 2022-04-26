@@ -1,10 +1,12 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+This is a tutorial on using Regex, which stands for Regular Expression.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Regex is a string of text that helps gather information from text by searching and sorting. Regex can also replace text and create search patterns.
+This tutorial will show: Matching an Email example – /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+This code will verify the user has put in a valid email address.
 
 ## Table of Contents
 
@@ -46,4 +48,5 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Created by: Courtney Martin
+GitHub: comkirk30
